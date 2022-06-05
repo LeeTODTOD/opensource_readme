@@ -1,2 +1,7 @@
-# opensource_readme
-opensource_readme
+# 20194068 이승찬 오픈소스 과제
+### 목차
+1) 리눅스 명령어 top
+2) 리눅스 명령어 ps
+3) 리눅스 명령어 jobs
+4) 리눅스 명령어  kill
+5) vim 에디터 매크로 사용법
